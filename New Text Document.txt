@@ -1,0 +1,17 @@
+https://themeforest.net/item/kalvin-portfolio-template/22191766
+
+Source & Credits
+jQuery
+Bootstrap
+Owl Carousal
+Stellar
+Magnific Popup
+Scrollit
+jQuery Ripples
+Fonts:
+Raleway
+Open Sans
+Images:
+unsplash
+Pexels
+Freepik
